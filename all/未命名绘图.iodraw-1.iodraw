@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline; font-size: 17px;&quot;&gt;传统分析方法&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=17;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline; font-size: 17px;&quot;&gt;传统分析方法&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10pt; font-family: SourceHanSerifCN-Regular;&quot;&gt;官&lt;br/&gt;能&lt;br/&gt;团&lt;br/&gt;组&lt;br/&gt;成&lt;br/&gt;进&lt;br/&gt;行&lt;br/&gt;原&lt;br/&gt;位&lt;br/&gt;研&lt;br/&gt;究&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=17;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="343.5" y="230" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3" value="样品本身性质" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=16;" parent="1" vertex="1">
