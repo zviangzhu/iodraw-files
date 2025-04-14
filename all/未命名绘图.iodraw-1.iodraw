@@ -176,6 +176,9 @@
         <mxCell id="32JconYlZiWnbVoZDZTL-104" value="传统实验方法" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="371" y="203" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="32JconYlZiWnbVoZDZTL-106" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
