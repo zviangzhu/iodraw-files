@@ -177,7 +177,7 @@
           <mxGeometry x="371" y="203" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="32JconYlZiWnbVoZDZTL-106" value="光谱分析无法得到空间信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="311" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="368.5" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
