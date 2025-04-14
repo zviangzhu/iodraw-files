@@ -106,6 +106,12 @@
         <mxCell id="32JconYlZiWnbVoZDZTL-118" value="单一维度信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="349" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="32JconYlZiWnbVoZDZTL-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.071;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="32JconYlZiWnbVoZDZTL-116" target="32JconYlZiWnbVoZDZTL-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32JconYlZiWnbVoZDZTL-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="32JconYlZiWnbVoZDZTL-118" target="32JconYlZiWnbVoZDZTL-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
